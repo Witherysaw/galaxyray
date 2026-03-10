@@ -24,15 +24,19 @@ The app was developed as part of my **High National Diploma (HND) mobile develop
 - Flutter
 - Dart
 - Mobile UI Development
-- Local Data Storage
+- Firebase Database(Firestore)
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+### Login
+![Home Screen](screenshots/login.jpg)
 
-Example:
+### Transaction History
+![Transaction History](screenshots/afterfirstwithdraw.jpg)
 
-![App Screenshot](screenshots/home_screen.png)
+More screenshots can be found here:
+
+[View all screenshots](screenshots/)
 
 ## Project Purpose
 
