@@ -1,6 +1,8 @@
 # Small Scale Finance Tracker (Galaxy Ray)
 
- <img src="images/GRlogo.png" width="200">
+ <p align="center">
+  <img src="images/GRlogo.png" width="200">
+ </p>
 
 A mobile application developed using Flutter that helps students track shared expenses, deposits, and withdrawals during group activities, trips, and events.
 
