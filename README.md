@@ -1,5 +1,7 @@
 # Student Finance Tracker
 
+![App Screenshot](images/GRlogo.png)
+
 A mobile application developed using Flutter that helps students track shared expenses, deposits, and withdrawals during group activities, trips, and events.
 
 ## Overview
