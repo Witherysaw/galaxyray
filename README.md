@@ -1,6 +1,6 @@
-# Student Finance Tracker
+# Small Scale Finance Tracker (Galaxy Ray)
 
-![App Screenshot](images/GRlogo.png)
+ <img src="screenshots/transaction_history.png" width="200">
 
 A mobile application developed using Flutter that helps students track shared expenses, deposits, and withdrawals during group activities, trips, and events.
 
@@ -28,11 +28,10 @@ The app was developed as part of my **High National Diploma (HND) mobile develop
 
 ## Screenshots
 
-### Login
-![Home Screen](screenshots/login.jpg)
-
-### Transaction History
-![Transaction History](screenshots/afterfirstwithdraw.jpg)
+<p>
+  <img src="screenshots/login.jpg" width="250">
+  <img src="screenshots/afterfirstwithdraw.jpg" width="250">
+</p>
 
 More screenshots can be found here:
 
